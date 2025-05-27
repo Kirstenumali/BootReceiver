@@ -25,4 +25,6 @@ public class BootReceiver extends BroadcastReceiver {
         }
     }
 }
-``` 
+```
+
+3. Test it
